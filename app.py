@@ -81,4 +81,4 @@ for i, txt in enumerate(df['Tong_ket']):
 st.pyplot(fig)
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: small; color: gray;'>Người tạo: [Họ và tên của bạn] - MSSV: [Mã số sinh viên của bạn]</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: small; color: gray;'>Người tạo: [Trần Văn Phú] - MSSV: [43]</p>", unsafe_allow_html=True)
